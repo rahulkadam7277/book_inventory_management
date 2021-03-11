@@ -1,3 +1,24 @@
-# book_inventory_management
-search the book from google API and  add it into the database.
-hgdfglerg['ehjrthwiporjrym
+# book-store
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
